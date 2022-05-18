@@ -2,8 +2,7 @@ TUTELA wallet repository
 =====================================
 
 ### Coin Specs
-
-• PoW Algorithm: X11KVS  
+  
 • Premine: 5,000,000 TUTL
 • PoW Blocks: 1 - 1000  
 • PoS Blocks: Starting from 1001  
